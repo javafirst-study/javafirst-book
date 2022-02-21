@@ -24,7 +24,7 @@
 - 《Java 8编程入门官方教程》[链接](https://pan.baidu.com/s/1PvrhuSymIJwtrKy2SXq3_Q) 提取码：joyi
 - 《深入浅出Kubernetes》[链接](https://pan.baidu.com/s/1wxcUp9_IqTdrMR0Uvfaacg) 提取码：cgeb
 - 《Java企业设计模式》[链接](https://pan.baidu.com/s/1UczjbRB9_UMz5390rpJ2eQ) 提取码：plio
-- 《》[链接]() 提取码：
+- 《spring-framework-5-0-0-m3》[链接](https://pan.baidu.com/s/14UMMPXr2p9VZqe6cDBf17g) 提取码：c87f
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
@@ -103,7 +103,7 @@
 ### 前端
 
 - 《HTML5游戏开发-中文版》[链接](https://pan.baidu.com/s/1jQfWOOtGWB4V-JPqBngGGg) 提取码：l734
-- 《》[链接]() 提取码：
+- 《JavaScript权威指南（中英文两版）》[链接](https://pan.baidu.com/s/1OBoJDypKQEmbfJxh3L5RjA) 提取码：brk8
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
@@ -199,11 +199,9 @@
 
 
 
-
-
 ### 算法&数据结构
 
-- 《》[链接]() 提取码：
+- 《程序员的数学2》[链接](https://pan.baidu.com/s/1pOE-1qJrvuXcnOHHacIabQ) 提取码：ufge
 - 《》[链接]() 提取码：
 
 
@@ -226,11 +224,7 @@
 
 
 
-
-
 ### 计算机
-
-
 
 
 
@@ -238,11 +232,7 @@
 
 
 
-
-
 ### 人工智能&机器学习
-
-
 
 
 
@@ -257,13 +247,28 @@
 
 大佬们的书单，单篇文章中提到的书籍都给大家打包好了，可直接提取，也欢迎大家添加微信 `studyingJava` 推荐好书单，不限于技术哈~，小编争取给大家提供对应书籍。
 
-- [《我推荐过 100 多次的 5 本好书》](https://mp.weixin.qq.com/s/luE-U7cJdkaajTFXoFwFXA)
-
+- 《异类》、《海鸥乔纳森》、《别忘你也曾野心勃勃》、《好点子都是偷来的》、《Anything You Want》
+  
   打包提取：[链接](https://pan.baidu.com/s/19oATmxAPmFjpQUt2t9Y9ng) 提取码：d1vf
 
+- 《克拉拉与太阳》、《字母表谜案》、《从零开始的女性主义》、《置身事内》、《也许你该找个人聊聊》、《刘擎西方现代思想讲义》、《下沉年代》、《文城》、《海边的房间》、《桶川跟踪狂杀人事件》
+
+  打包提取：[链接](https://pan.baidu.com/s/1JmZ3srCG2h5xM6wtXicwBw) 提取码：f2qa
+
+- 《优势谈判》[链接](https://pan.baidu.com/s/1mMd6yHxpY1YkpuSF4bXdvQ) 提取码：c2q6
+
+- 《》[链接]() 提取码：
+
+- 《》[链接]() 提取码：
+
+- 《》[链接]() 提取码：
+
+
+
+### 硬件开发
+
+- 《51单片机开发与应用技术详解》[链接](https://pan.baidu.com/s/1RY12uSQ-yxvaY_RSIUW1Fw) 提取码：pzr1
 - 
-
-
 
 
 
