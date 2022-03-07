@@ -25,10 +25,10 @@
 - 《深入浅出Kubernetes》[链接](https://pan.baidu.com/s/1wxcUp9_IqTdrMR0Uvfaacg) 提取码：cgeb
 - 《Java企业设计模式》[链接](https://pan.baidu.com/s/1UczjbRB9_UMz5390rpJ2eQ) 提取码：plio
 - 《spring-framework-5-0-0-m3》[链接](https://pan.baidu.com/s/14UMMPXr2p9VZqe6cDBf17g) 提取码：c87f
-- 《》[链接]() 提取码：
-- 《》[链接]() 提取码：
-- 《》[链接]() 提取码：
-- 《》[链接]() 提取码：
+- 《Cloud Native Java》[链接](https://pan.baidu.com/s/1Vf-Ro0zvnjLf4L_BZB1rkA) 提取码：o6ew
+- 《Learning Spring Boot 2.0》[链接](https://pan.baidu.com/s/10YxUESvr-KjxTF4sIGcOcw) 提取码：xv9h
+- 《spring微服务实战》[链接](https://pan.baidu.com/s/17R3HGvf0AFbgDMVn2s4K2A) 提取码：b10r
+- 《Java核心技术 卷I》[链接](https://pan.baidu.com/s/1gw-aysTAvczDZDDLzEKqRA) 提取码：iq1j
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
@@ -143,7 +143,7 @@
 
 - 《LINUX系统编程》[链接](https://pan.baidu.com/s/1ve1KP-ZRN4pmnSgq1FTcGA) 提取码：7o2c
 - 《linux完全教程》[链接](https://pan.baidu.com/s/1JYkmky2SwyHHVDyDAItPkg) 提取码：sv11
-- 《》[链接]() 提取码：
+- 《鸟哥的Linux私房菜》[链接](https://pan.baidu.com/s/1oPbKl8XlFL7Y0No061Bjtg) 提取码：kusj
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
 - 《》[链接]() 提取码：
@@ -216,7 +216,9 @@
 ### 数据库
 
 - 《MySQL高性能_第3版（中文）》
-- 
+- 《MySQL必知必会》[链接](https://pan.baidu.com/s/1EI3naG8lMQdflIjTM-PLSQ) 提取码：le96
+- 《MySQL技术内幕》[链接](https://pan.baidu.com/s/1fUhGy3La-egmC3mUgZ1gyA) 提取码：s91y
+- 《》[链接]() 提取码：
 
 
 
